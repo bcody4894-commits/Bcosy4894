@@ -89,8 +89,8 @@ footer {
 
     
 .post-image {
-    width: 50%;          /* shrink relative to container */
-    max-width: 300px;    /* cap the maximum size */
+    width: 30%;          /* shrink relative to container */
+    max-width: 100px;    /* cap the maximum size */
     display: block;
     margin: 25px auto;
     border-radius: 6px;
