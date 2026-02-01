@@ -89,10 +89,10 @@ footer {
 
     
 .post-image {
-    width: 30%;          /* shrink relative to container */
-    max-width: 100px;    /* cap the maximum size */
+    width: 150px;       /* fixed width */
+    height: auto;       /* keep proportions */
     display: block;
-    margin: 25px auto;
+    margin: 25px auto;  /* center the image */
     border-radius: 6px;
 }
 
